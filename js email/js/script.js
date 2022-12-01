@@ -7,3 +7,7 @@ const mail = ['almannofrancesco@gmail.com', 'francescoalmanno@gmail.com', 'alman
 
 let user_mail = prompt('Per favore inserisci la tua email');
 console.log(user_mail);
+
+mail.length
+console.log(mail);
+
