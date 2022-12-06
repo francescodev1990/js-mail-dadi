@@ -1,4 +1,3 @@
-
 //LISTA EMAIL PRESENTI IN ARCHIVIO//
 
 const mail = ['almannofrancesco@gmail.com', 'francescoalmanno@gmail.com', 'almannofrancesco@hotmail.it', 'fabriziosgargiulo@live.it', 'snackaperitivo@libero.it'];
@@ -19,7 +18,7 @@ for(let i = 0; i < mail.length; i++){
     }
 }
 
-if(mail){
+if(control_mail){
     console.log('Email trovata in archivio');
 }
 else{
